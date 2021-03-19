@@ -2,9 +2,10 @@
 #include <Windows.h>
 #include <time.h>
 
+static int value = 100;
 int main()
 {
-    int value = 100;
+    
     
     while (true) {
         value -= 1;
