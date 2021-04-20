@@ -1,0 +1,2 @@
+#define THROWDLL_API __declspec(dllexport)
+#define THROWDLL_API __declspec(dllimport)

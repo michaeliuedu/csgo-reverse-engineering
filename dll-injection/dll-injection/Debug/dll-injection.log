@@ -1,0 +1,3 @@
+﻿  dll-injection.cpp
+C:\Users\Michael\source\repos\dll-injection\dll-injection\dll-injection.cpp(44,6): warning C4102: 'std': unreferenced label
+  dll-injection.vcxproj -> C:\Users\Michael\source\repos\dll-injection\Debug\dll-injection.exe
