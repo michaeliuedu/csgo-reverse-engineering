@@ -1,2 +1,0 @@
-#define INTERNALCSGODLL_API __declspec(dllexport)
-#define INTERNALCSGODLL_API __declspec(dllimport)
