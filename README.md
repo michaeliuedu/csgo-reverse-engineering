@@ -25,4 +25,4 @@ Code is currently incredibly messy and not optimized. This project is likely not
 		return rpmBuffer;
 	}
 ```
-Files are messed up currently. 
+Files are messed up currently. For standalone, VAC-BYPASS is a the loader for the cheat.dll generated. Signatures and NetVars are not read in realtime.
