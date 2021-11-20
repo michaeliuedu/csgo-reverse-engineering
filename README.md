@@ -1,4 +1,5 @@
 # Memory Reading and Writing - Counter - Strike: Global Offensive
+**Cheat code being updated, injector still present**
 Code is currently incredibly messy and not optimized. This project is likely not going to be updated soon. Reading and writing functions are obsolete as this is an internal DLL hack but was formerly external. In handler.cpp, following functions will be fixed in the future to optimize reading and writing: 
 
 ```cpp
