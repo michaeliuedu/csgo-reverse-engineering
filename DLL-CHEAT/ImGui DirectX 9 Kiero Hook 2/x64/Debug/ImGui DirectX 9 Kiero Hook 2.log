@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ImGui DirectX 9 Kiero Hook 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  kiero.cpp
+  main.cpp
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(47,58): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(51,39): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(55,39): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(64,137): warning C4806: '!=': unsafe operation: no value of type 'T' promoted to type 'int' can equal the given constant
+          with
+          [
+              T=bool
+          ]
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(162,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(162,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(163,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(163,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(356,51): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(358,59): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector3 *' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(380,53): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(382,61): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector3 *' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(392,54): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(394,62): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector3 *' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(401,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(412,71): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(418,82): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(419,55): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(422,52): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(424,55): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(455,82): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(458,52): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(460,55): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(477,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(477,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(477,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(477,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(478,30): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(478,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(42,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(47): message : see reference to function template instantiation 'dataType readProcessMemory<int>(DWORD)' being compiled
+          with
+          [
+              dataType=int
+          ]
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(36,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\ImGui DirectX 9 Kiero Hook 2\main.cpp(248): message : see reference to function template instantiation 'void writeProcessMemory<int>(dataType,DWORD)' being compiled
+          with
+          [
+              dataType=int
+          ]
+  Generating Code...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  ImGui DirectX 9 Kiero Hook 2.vcxproj -> C:\Dev\C++\ImGui-DirectX-9-Kiero-Hook-master\ImGui-DirectX-9-Kiero-Hook-master\x64\Debug\cheat.dll
