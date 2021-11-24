@@ -3,6 +3,7 @@
 #include "includes.h"
 #pragma warning(disable:4996)
 
+//Functions mainly from CyborgElf but changed to fit context of program
 namespace Functions
 {
 	bool DoesFileExist(const char* name) {
@@ -13,9 +14,7 @@ namespace Functions
 
 		return false;
 	}
-
-	//===========================================================================================
-
+	
 	DWORD GetProcessId(const char* ProcessName)
 	{
 		HANDLE hSnap = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL);
@@ -56,8 +55,6 @@ namespace Functions
 		}
 	}
 
-	//===========================================================================================
-
 	bool LoadLibraryInject(DWORD ProcessId, const char* Dll)
 	{
 		if (ProcessId == NULL)
@@ -80,8 +77,8 @@ namespace Functions
 		return TRUE;
 	}
 
-	//===========================================================================================
-
+	
+	
 	namespace Internal
 	{
 		LPVOID NTOpenFile = GetProcAddress(LoadLibraryW(L"ntdll"), "NtOpenFile");
@@ -105,7 +102,6 @@ namespace Functions
 		bool Backup(HANDLE hProcess)
 		{
 			if (NTOpenFile) {
-				//So, when I patching first 5 bytes I need to backup them to 0? (I think)
 				char Orig[5];
 				memcpy(Orig, NTOpenFile, 5);
 				WriteProcessMemory(hProcess, NTOpenFile, Orig, 0, 0);
