@@ -1,3 +1,4 @@
+#DO NOT USE THIS PROJECT, USE densebear-internal PLEASE
 Important (why DLL-CHEAT project is obsolete) - Please use internal-cheat instead. Do not download this project!
 Code is currently incredibly messy and not optimized. This project is likely not going to be updated soon. Reading and writing functions are obsolete as this is an internal dll hack but was formerly external. In handler.cpp, following functions will be fixed in the future to optimize reading and writing if you want to copy or refernce the following templates for you external cheat:
 
