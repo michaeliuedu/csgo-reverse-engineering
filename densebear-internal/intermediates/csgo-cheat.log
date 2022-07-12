@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (.\intermediates\) contains files shared from another project (csgo-cheat.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  LINK : .\output\debug\cheat.dll not found or not built by the last incremental link; performing full link
+  csgo-cheat.vcxproj -> C:\Dev\C++\densebear-internal\output\debug\cheat.dll
