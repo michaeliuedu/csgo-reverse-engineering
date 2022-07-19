@@ -5,7 +5,13 @@
 
 - DLL-CHEAT - Folder contains a terrible mix of internal and external (uses external functions w/o internal interfaces). Do not use this. It is only uploaded for storage!
 
-- internal-cheat - Recently uploaded internal cheat in folder densebear-internal. Based off of existing source 1 leaks. I recomend checking this out if you want a quick base. If it crashes, please check IDA or other programs for changed patterns/sig locations or whatnot, its pretty simply and you can often get it from hazedumper or other sources such as Osiris. Again, if it crashes, the code is not broken, it just requires maintainence like all others. Classes and structs may need to be updated as well, check source leaks and forums for this.
+- internal-cheat - Recently uploaded internal cheat in folder densebear-internal. Based off of existing source 1 leaks. I recomend checking this out if you want a quick base. If it crashes, please check IDA or other programs for changed patterns/sig locations as its pretty simple and you can often get it from hazedumper or other sources such as Osiris. Again, if it crashes, the code is not broken, it just requires maintainence like all others. Classes and structs may need to be updated as well, check source leaks and forums for this. Special thanks to osiris, various open source contributors, and forum members.
+
+
+**Preview of Basic Features + Menu**
+![image](https://user-images.githubusercontent.com/74503398/179643417-30212bdf-5d13-43ea-be46-804e27e945ba.png)
+
+
 
 - VAC-BYPASS - Includes a simple VAC bypassing project. (Works as of 7/12/22 in source 1 this may change as source 2 is released). Requires a DLL in the project base directory to inject.
 
