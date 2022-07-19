@@ -2,6 +2,8 @@
 Important (why DLL-CHEAT project is obsolete) - Please use internal-cheat instead. Do not download this project!
 Code is currently incredibly messy and not optimized. This project is likely not going to be updated soon. Reading and writing functions are obsolete as this is an internal dll hack but was formerly external. In handler.cpp, following functions will be fixed in the future to optimize reading and writing if you want to copy or refernce the following templates for you external cheat:
 
+```cpp
+
 	template<typename T> void WPM(SIZE_T address, T buffer) {
 		WriteProcessMemory(hProc, (LPVOID)address, &buffer, sizeof(buffer), NULL);
 	}
@@ -24,6 +26,7 @@ Code is currently incredibly messy and not optimized. This project is likely not
 		ReadProcessMemory(hProc, (PVOID)addressToRead, &rpmBuffer, sizeof(dataType), 0);
 		return rpmBuffer;
 	}
+```	
 Files are messed up currently. For standalone, VAC-BYPASS is a the loader for the cheat.dll generated. Signatures, NetVars, offsets are not read in realtime yet, still finding solutions. Currently relies on manual updates from Hazedumper for DLL-CHEAT. The only things you need to update for internals are patterns and possibly struct/classes.
 
 # Cheat DLL
