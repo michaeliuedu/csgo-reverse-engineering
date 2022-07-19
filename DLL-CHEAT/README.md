@@ -30,4 +30,6 @@ Code is currently incredibly messy and not optimized. This project is likely not
 Files are messed up currently. For standalone, VAC-BYPASS is a the loader for the cheat.dll generated. Signatures, NetVars, offsets are not read in realtime yet, still finding solutions. Currently relies on manual updates from Hazedumper for DLL-CHEAT. The only things you need to update for internals are patterns and possibly struct/classes.
 
 # Cheat DLL
-This is the cheat project of the repo. This is a sepperate project which requires the solution to be executed and generate a DLL file. Antiviruses may interfere with compilation. Internal logic heavily sourced from an external source. Should not change and has worked exceptionally for the whole of source 1. Unsure for source 2 update however. Use at own risk.
+This is the cheat project of the repo. This is a sepperate project which requires the solution to be executed and generate a DLL file. Antiviruses may interfere with compilation. Internal logic heavily sourced from an external source. Should not change and has worked exceptionally for the whole of source 1. Unsure for source 2 update however. 
+
+TLDR: Do not use this project.
