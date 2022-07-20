@@ -4,10 +4,10 @@
 ***This project contains 4 projects, each with a visual studio project. Please read the following notices. The cleanest cheat to use is internal-cheat project.***
 
 
-- internal-cheat - Recently uploaded internal cheat in folder densebear-internal. Based off of existing source 1 leaks. I recomend checking this out if you want a quick base. If it crashes, please check IDA or other programs for changed patterns/sig locations as its pretty simple and you can often get it from hazedumper or other sources such as Osiris. Again, if it crashes, the code is not broken, it just requires maintainence like all others. Classes and structs may need to be updated as well, check source leaks and forums for this. Special thanks to osiris, various open source contributors, and forum members. Menu UI ported from obsolete DLL-CHEAT project.
+- internal-cheat - Recently uploaded internal cheat in folder densebear-internal. Based off of existing source 1 leaks. I recommend checking this out if you want a quick base. If it crashes, please check IDA or other programs for changed patterns/sig locations as its pretty simple and you can often get it from hazedumper or other sources such as Osiris. **Again, if it crashes, the code is not broken, it just requires maintainence like all other existing cheats**, especially considering that I will stop updating these myself for a while. Classes and structs may need to be updated as well, check source leaks and forums for this. Special thanks to osiris, various open source contributors, and forum members. Menu UI ported from obsolete DLL-CHEAT project.
 
 ***Known Issues:***
-- Ennabling Engine Glow will crash the cheat. 7/20/22 - The glow struct or entity enums are likely broken.
+- Enabling Engine Glow will crash the cheat. 7/20/22 - The glow struct or entity enums are likely broken.
 
 **Preview of Basic Features + Menu**
 ![image](https://user-images.githubusercontent.com/74503398/179643417-30212bdf-5d13-43ea-be46-804e27e945ba.png)
