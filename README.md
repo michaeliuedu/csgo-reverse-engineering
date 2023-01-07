@@ -14,7 +14,5 @@
 **Loaders**
 - VAC-BYPASS - Includes a simple VAC bypassing project. (Works as of 7/12/22 in source 1 this may change as source 2 is released). Requires a DLL in the project base directory to inject.
 
-- densebear-loader - Literally just VAC-BYPASS but ported to IMGUI framework to be more visually appealing. Really messy code and terrible thread functions but it should do. The functions code files are the same and sourced from somewhere else I cannot remember.
-
 
 Files are messed up currently. For standalone, VAC-BYPASS is a the loader for the cheat.dll generated. Signatures, NetVars, offsets are not read in realtime yet, still finding solutions. Currently relies on manual updates from Hazedumper for DLL-CHEAT. The only things you need to update for internals are patterns and possibly struct/classes.
