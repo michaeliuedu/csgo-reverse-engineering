@@ -1,4 +1,4 @@
-# Internal Source Based Cheat (Use densebear-internal Folder Only)
+# Internal Source Based Cheat
 **Cheat code being likely be depreciated soon. I just wanted to release it before source 2 releases. This is not a vaiable public game exploit so if you are looking for that, I suggest lookng elsewhere. This is for learning purposes and reference purposes for those who have similiar endeavors, not for cheaters.**
 
 
