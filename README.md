@@ -1,6 +1,6 @@
 # CS:GO Project
 
-This project is now updated due to the release of CS2. It exists merely to document my progress in becoming familar with reverse engineering and game hacking. The project contains:
+This project is now outdated due to the release of CS2. It exists merely to document my progress in becoming familar with reverse engineering and game hacking. The project contains:
 * **densebear-internal** which creates a DLL file
 * V**AC-BYPASS** which injects the DLL upon launch
 
